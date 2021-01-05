@@ -2,4 +2,5 @@
 App to track manga chapter and anime episodes
 
 ### External links
--[Kitsu API](https://kitsu.docs.apiary.io/#introduction/http-methods)
+- [Kitsu API](https://kitsu.docs.apiary.io/#introduction/http-methods)
+- [Material-UI](https://material-ui.com/)
